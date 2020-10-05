@@ -1,0 +1,52 @@
+h1{
+    a
+    color: black;
+    font-size: 50px;
+    font-family: fantasy, "Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    background-color: #52FFD4;
+
+}
+
+h2{
+    color: white;
+    font-size: 35px;
+    font-family: fantasy;
+    background-color: #1E67FB;
+    text-align: center;
+
+}
+h3 {
+    color: #3A1DF5;
+    font-size: 30px;
+    font-family: fantasy;
+    background-color: #51D1F5;
+
+}
+
+p {
+    text-indent: 30px;
+    color: black;
+    font-size: 22px;
+    line-height: 30px;
+    font-family: fantasy;
+    background-color: inherit;
+  }
+
+body{
+  background-color: #BEFAF6;
+}
+
+.img-exercise {
+  width: 200px;
+}
+.img-emotion {
+  width: 200px;
+}
+.img-informed {
+  width: 200px;
+}
